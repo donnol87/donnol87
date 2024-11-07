@@ -2,4 +2,4 @@
 - 👀 I’m interested in javascript & web design
 - 🌱 I’m currently MERN
 - 💞️ I’m looking to collaborate on websites and build my portfolio
-- 📫 How to reach me discord donnol87
+- 📫 How to reach me donnolochlainn@gmail.com
